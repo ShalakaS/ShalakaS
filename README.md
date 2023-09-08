@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋 My name is Shalaka (she/her).
+
+I am a data journalist based in New York. I recently graduated from Columbia Journalism School with an MS in data journalism. I enjoy web-scraping and data analysis. I taught myself to use chopticks. Constantly looking for fresh opportunities to use any of those skills. 
+
+You can find some of my favourite projects listed here. You can also connect with me or just meet for coffee by using any of the following buttons. I choose based on my favorite color of the day:
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/shalaka-shinde-80285457/)
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) (https://www.instagram.com/shalakashinde1/)
+
+![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (mailto:ss6657@columbia.edu)
 
 <!--
 **ShalakaS/ShalakaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
