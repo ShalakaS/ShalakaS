@@ -4,7 +4,7 @@ I am a data journalist based in New York. I recently graduated from Columbia Jou
 
 You can find some of my favourite projects listed here. You can also connect with me or just meet for coffee by using any of the following buttons. I choose based on my favorite color of the day:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/shalaka-shinde-80285457/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalaka-shinde-80285457/)
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) (https://www.instagram.com/shalakashinde1/)
 
